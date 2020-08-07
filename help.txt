@@ -3,7 +3,7 @@ Space Invaders
 Project by:
 -----------
 Sciana Elisha Quadros - 3045
-Karampreet Kaur Sidhu - 3384
+
 
 DESCRIPTION:
 ***********
