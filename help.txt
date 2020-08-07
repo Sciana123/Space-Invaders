@@ -1,0 +1,35 @@
+Space Invaders
+**************
+Project by:
+-----------
+Sciana Elisha Quadros - 3045
+Karampreet Kaur Sidhu - 3384
+
+DESCRIPTION:
+***********
+" Our planet is in danger! An army of Martians has decided to invade Earth. Fortunately, you are the hero of the situation, being the only person who is capable of annihilating these interplanetary villains."
+
+HOW TO PLAY:
+************
+USE THE FOLLOWING BUTTONS TO CONTROL YOUR SPACESHIP.
+
+K		 - To move left.
+L		 - To move right.
+SPACEBAR - To fire Lasers and kill ET's.
+H		 - To pause the game.
+E        - To quit the game.
+
+
+- KILL ALL ET's TO WIN THE GAME.
+- EVERY TIME YOU KILL AN ET, YOUR WILL SCORE 50 POINTS.
+- AT EVERY 500 POINTS, YOUR LEVEL WILL BE INCREASED.
+- IF THERE ARE 15 ET's ON YOUR GAME SCREEN, YOU LOSE THE GAME.
+- AFTER YOU SCORE 500 POINTS, SECOND LEVEL ET's CALLED MONSTERS APPEAR.
+- KILLING MONSTERS WILL INCREASE YOU SCORE BY 100.
+- YOU CAN EXIT THE GAME IN 3 WAYS -
+	1.YOU WIN.
+	2.YOU LOSE.
+	3.YOU QUIT.
+
+
+
